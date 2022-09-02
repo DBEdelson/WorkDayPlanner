@@ -1,14 +1,21 @@
 Third Party API Calendar
+
 Workday-Calendar
+
 Goal: Create a calendar application featuring dynamic HTML and Javascript powered by jQuery
 
 Actions:
 
 When user opens application a calendar shows with the date and time utilizing moment.js
+
 The user is able view timeblocks for standard business hours
+
 The timeblocks are color coded to represent: past, present, future
+
 Upon clicking into a timeblock as a user I am able to enter an event and save
-The events are saved in local storage
+
+he events are saved in local storage
+
 When the page is refreshed the save information still renders
 
 Website 
@@ -28,5 +35,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Badges
-macOS Maintenance GitHub license
